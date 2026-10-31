@@ -1,0 +1,489 @@
+{
+  "database": "suuq",
+  "products": 48,
+  "orders": 0,
+  "duplicateGroups": 24,
+  "extraUntouchedSeedCopies": 24,
+  "groups": [
+    {
+      "name": "Red Apples",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd1064",
+          "name": "Red Apples",
+          "price": 3.8,
+          "stock": 60,
+          "createdAt": "2026-10-31T07:48:10.040Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b87",
+          "name": "Red Apples",
+          "price": 3.8,
+          "stock": 60,
+          "createdAt": "2026-10-31T07:48:10.040Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Fresh Bananas",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd1065",
+          "name": "Fresh Bananas",
+          "price": 2.5,
+          "stock": 80,
+          "createdAt": "2026-10-31T07:48:10.040Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b88",
+          "name": "Fresh Bananas",
+          "price": 2.5,
+          "stock": 80,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Sweet Oranges",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd1066",
+          "name": "Sweet Oranges",
+          "price": 3.2,
+          "stock": 48,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b89",
+          "name": "Sweet Oranges",
+          "price": 3.2,
+          "stock": 48,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Bottled Water",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd1067",
+          "name": "Bottled Water",
+          "price": 0.7,
+          "stock": 120,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b8a",
+          "name": "Bottled Water",
+          "price": 0.7,
+          "stock": 120,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Orange Juice",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd1068",
+          "name": "Orange Juice",
+          "price": 2.2,
+          "stock": 65,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b8b",
+          "name": "Orange Juice",
+          "price": 2.2,
+          "stock": 65,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Sparkling Soda",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd1069",
+          "name": "Sparkling Soda",
+          "price": 1.1,
+          "stock": 75,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b8c",
+          "name": "Sparkling Soda",
+          "price": 1.1,
+          "stock": 75,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Fresh Milk",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd106a",
+          "name": "Fresh Milk",
+          "price": 1.7,
+          "stock": 55,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b8d",
+          "name": "Fresh Milk",
+          "price": 1.7,
+          "stock": 55,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Natural Yogurt",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd106b",
+          "name": "Natural Yogurt",
+          "price": 2.4,
+          "stock": 35,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b8e",
+          "name": "Natural Yogurt",
+          "price": 2.4,
+          "stock": 35,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Farm Eggs",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd106c",
+          "name": "Farm Eggs",
+          "price": 3.2,
+          "stock": 45,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b8f",
+          "name": "Farm Eggs",
+          "price": 3.2,
+          "stock": 45,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Butter Biscuits",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd106d",
+          "name": "Butter Biscuits",
+          "price": 2.6,
+          "stock": 42,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b90",
+          "name": "Butter Biscuits",
+          "price": 2.6,
+          "stock": 42,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Potato Crisps",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd106e",
+          "name": "Potato Crisps",
+          "price": 1.8,
+          "stock": 64,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b91",
+          "name": "Potato Crisps",
+          "price": 1.8,
+          "stock": 64,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Fresh Bread",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd106f",
+          "name": "Fresh Bread",
+          "price": 1.5,
+          "stock": 44,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b92",
+          "name": "Fresh Bread",
+          "price": 1.5,
+          "stock": 44,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Basmati Rice",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd1070",
+          "name": "Basmati Rice",
+          "price": 9.9,
+          "stock": 38,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b93",
+          "name": "Basmati Rice",
+          "price": 9.9,
+          "stock": 38,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Wheat Flour",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd1071",
+          "name": "Wheat Flour",
+          "price": 3.6,
+          "stock": 42,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b94",
+          "name": "Wheat Flour",
+          "price": 3.6,
+          "stock": 42,
+          "createdAt": "2026-10-31T07:48:10.042Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Pasta Penne",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd1072",
+          "name": "Pasta Penne",
+          "price": 2.1,
+          "stock": 56,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b95",
+          "name": "Pasta Penne",
+          "price": 2.1,
+          "stock": 56,
+          "createdAt": "2026-10-31T07:48:10.042Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Olive Oil",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd1073",
+          "name": "Olive Oil",
+          "price": 6.5,
+          "stock": 31,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b96",
+          "name": "Olive Oil",
+          "price": 6.5,
+          "stock": 31,
+          "createdAt": "2026-10-31T07:48:10.042Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Laundry Detergent",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd1074",
+          "name": "Laundry Detergent",
+          "price": 4.4,
+          "stock": 28,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b97",
+          "name": "Laundry Detergent",
+          "price": 4.4,
+          "stock": 28,
+          "createdAt": "2026-10-31T07:48:10.042Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Dishwashing Liquid",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd1075",
+          "name": "Dishwashing Liquid",
+          "price": 2.3,
+          "stock": 37,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b98",
+          "name": "Dishwashing Liquid",
+          "price": 2.3,
+          "stock": 37,
+          "createdAt": "2026-10-31T07:48:10.042Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Surface Cleaner",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd1076",
+          "name": "Surface Cleaner",
+          "price": 3.1,
+          "stock": 22,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b99",
+          "name": "Surface Cleaner",
+          "price": 3.1,
+          "stock": 22,
+          "createdAt": "2026-10-31T07:48:10.042Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Hand Wash",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd1077",
+          "name": "Hand Wash",
+          "price": 2.8,
+          "stock": 42,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b9a",
+          "name": "Hand Wash",
+          "price": 2.8,
+          "stock": 42,
+          "createdAt": "2026-10-31T07:48:10.042Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Daily Shampoo",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd1078",
+          "name": "Daily Shampoo",
+          "price": 4.8,
+          "stock": 30,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b9b",
+          "name": "Daily Shampoo",
+          "price": 4.8,
+          "stock": 30,
+          "createdAt": "2026-10-31T07:48:10.042Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Bar Soap",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd1079",
+          "name": "Bar Soap",
+          "price": 1.2,
+          "stock": 73,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b9c",
+          "name": "Bar Soap",
+          "price": 1.2,
+          "stock": 73,
+          "createdAt": "2026-10-31T07:48:10.042Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Paper Towels",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd107a",
+          "name": "Paper Towels",
+          "price": 2.8,
+          "stock": 42,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b9d",
+          "name": "Paper Towels",
+          "price": 2.8,
+          "stock": 42,
+          "createdAt": "2026-10-31T07:48:10.042Z"
+        }
+      ],
+      "linkedOrders": 0
+    },
+    {
+      "name": "Storage Bags",
+      "exactUntouchedCopies": [
+        {
+          "_id": "6ae59d3ac3c7ec8238cd107b",
+          "name": "Storage Bags",
+          "price": 2.5,
+          "stock": 35,
+          "createdAt": "2026-10-31T07:48:10.041Z"
+        },
+        {
+          "_id": "6ae59d3ad63a194bcb008b9e",
+          "name": "Storage Bags",
+          "price": 2.5,
+          "stock": 35,
+          "createdAt": "2026-10-31T07:48:10.042Z"
+        }
+      ],
+      "linkedOrders": 0
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+.DS_Store
+
+data/uploads/
+playwright-report/
+test-results/
+
+.browser-dist/
